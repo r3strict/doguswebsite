@@ -78,3 +78,33 @@ section
     z-index: 9;
     
 }
+#core
+{
+    position: absolute;
+    color: white;
+    white-space: nowrap;
+    font-size: 5vw;
+    z-index: 9;
+    transform: translateY(100px);
+    left: 100px;
+}
+#Workshops
+{
+    position: absolute;
+    color: white;
+    white-space: nowrap;
+    font-size: 5vw;
+    z-index: 9;
+    transform: translateY(100px);
+    left: 500px;
+}
+#Core_img
+{
+    position: absolute;
+    color: white;
+    white-space: nowrap;
+    font-size: 5vw;
+    z-index: 9;
+    transform: translateY(150px);
+    left: 100px;
+}
