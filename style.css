@@ -89,12 +89,12 @@ section img
     object-fit: cover;
     pointer-events: none;
 }
-section img #moon
+section img#moon
 {
     mix-blend-mode: screen;
     z-index: 9;
 }
-section img #mountains_front
+section img#mountains_front
 {
     z-index: 10;
 }
