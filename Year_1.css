@@ -105,6 +105,6 @@ section
     white-space: nowrap;
     font-size: 5vw;
     z-index: 9;
-    transform: translateY(150px);
+    transform: translateY(250px);
     left: 100px;
 }
