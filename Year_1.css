@@ -108,5 +108,5 @@ section
 {
     position: absolute;
     transform: translateY(250px);
-    left: -100px;
+    right: 100px;
 }
