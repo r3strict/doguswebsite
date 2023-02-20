@@ -101,10 +101,12 @@ section
 #Core_img
 {
     position: absolute;
-    color: white;
-    white-space: nowrap;
-    font-size: 5vw;
-    z-index: 9;
     transform: translateY(250px);
     left: 100px;
+}
+#Workshops_img
+{
+    position: absolute;
+    transform: translateY(250px);
+    left: -100px;
 }
